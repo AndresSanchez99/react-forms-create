@@ -1,0 +1,22 @@
+.product-container { 
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    margin-top: 2px;
+    border-spacing: 20px 5px;
+    border: 0.5px solid gray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.products-container {
+  width: 200px;
+  height: 30px;
+  margin: 10px;
+  padding: 5px;
+  margin-top: 0.2px;
+  text-align: center;
+}
+  

@@ -1,0 +1,22 @@
+.field-product-container { 
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    margin-top: 2px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 1px solid gray;
+ justify-content: space-around;
+}
+
+.field-container {
+    width: 200px;
+    height: 5px;
+    margin: 10px;
+    padding: 5px;
+    margin-top: 0.2px;
+    text-align: center;
+  }

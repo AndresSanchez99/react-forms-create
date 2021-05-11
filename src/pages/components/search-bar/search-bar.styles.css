@@ -1,0 +1,17 @@
+.search-bar-container { 
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-height: 70px;
+    
+    padding: 5px;
+    text-align: center;
+    
+}
+
+h5 {
+    text-align: center;
+}
+input[type=radio] {
+ margin: 0 auto;
+}

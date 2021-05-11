@@ -1,0 +1,14 @@
+.table-SCM-container { 
+    width: 700px;
+    min-height: 1309px;
+    margin: 10px;
+    margin-top: 10px;
+    border: 1px solid white;
+    font-style: oblique;
+   margin-block-end: 10px;
+   background-color: whitesmoke;
+   left: 750px;
+}
+.list-style {
+    min-height: min-content;
+}

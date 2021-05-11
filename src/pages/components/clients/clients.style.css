@@ -1,0 +1,25 @@
+.client-container { 
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    margin-top: 2px;
+    border-spacing: 20px 5px;
+    border: 0.5px solid gray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.client-style{
+    width: 200px;
+    height: 5px;
+    margin: 10px;
+    padding: 5px;
+    margin-top: 0.2px;
+    text-align: center;
+
+}
+.service-not {
+    color: rgb(194, 33, 33);
+    font-weight: bold;
+}

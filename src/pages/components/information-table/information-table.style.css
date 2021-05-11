@@ -1,0 +1,14 @@
+.information-table-container { 
+    width: 95%;
+    height: 980px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    font-style: oblique;
+    
+
+}
+h4 {
+    color: teal;
+}
